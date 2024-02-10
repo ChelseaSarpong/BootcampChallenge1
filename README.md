@@ -13,7 +13,7 @@ This Webpage was created for a Marketing Agency called Horiseon.It was made with
 
 You can clone this repository with the following command in your terminal: 
 
-Git clone https://chelseasarpong.github.io/BootcampChallenge1/
+Git clone https://github.com/ChelseaSarpong/BootcampChallenge1.git
 
 ## Usage
  This webpage will automatically redeploy to github pages when changes are committed to the main branch of this Repo. Live site [here](https://chelseasarpong.github.io/BootcampChallenge1/)
